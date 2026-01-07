@@ -1,0 +1,5 @@
+./deep-deep/setup.py
+./deep-deep/check.sh
+./examples/standalone.py
+./AGENTS.md
+./docs/conf.py
